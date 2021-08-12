@@ -16,3 +16,22 @@ Dataset is from: https://www.kaggle.com/c/birdsong-recognition/data
 ├── requirement.txt    <- Requirement files to reproduce the analysis environment
 └── README.md
 ```
+## Set Up
+
+### Using an isolated environment
+
+1.It would be better to have a virtual enviroenment with all required pacakes installed. 
+```
+conda create --name env_name 
+```
+
+2. Activate environment with:
+
+```
+conda activate env_name
+```
+
+3. Install packages required for model train :
+```
+pip install -r requirements.txt
+```
