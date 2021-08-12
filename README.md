@@ -7,4 +7,4 @@ The packages we used can be found in requirement.txt
 The models we use include: ResNet50, Efficient_model.
 
 
-Dataset is from: https://www.kaggle.com/c/birdsong-recognition/data?select=train.csv
+Dataset is from: https://www.kaggle.com/c/birdsong-recognition/data
