@@ -10,7 +10,8 @@ Dataset is from: https://www.kaggle.com/c/birdsong-recognition/data
 
 ## Repository struct
 ```
-├──  model_scripts            <- Shell and command-line-friendly Python scripts 
+├── notebooks          <- notebooks for data exploration, data augmentation and experiments of models.
+├── scripts            <- Shell and command-line-friendly Python scripts 
 ├── requirement.txt    <- Requirement files to reproduce the analysis environment
 └── README.md
 ```
