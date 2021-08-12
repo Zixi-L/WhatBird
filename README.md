@@ -8,3 +8,11 @@ The models we use include: ResNet50, Efficient_model.
 
 
 Dataset is from: https://www.kaggle.com/c/birdsong-recognition/data
+
+## Repository structure
+
+```
+├──  model_scripts            <- Shell and command-line-friendly Python scripts 
+├── requirement.txt    <- Requirement files to reproduce the analysis environment
+└── README.md
+```
